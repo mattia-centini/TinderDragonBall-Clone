@@ -11,6 +11,6 @@ The app works best in split screen (desktop view) avoid full screen
 -Functional Component
 -Ternary Operator
 
-### `Firebase Firestor`
+### `Firebase Firestore`
 
 i used firebased to store the data regarding names and image url for the tinder cards
